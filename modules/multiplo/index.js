@@ -1,0 +1,1 @@
+module.exports = (num1, num2) => (num1 % num2) === 0 ? num1 + ' es múltiplo de ' + num2 : num1 + ' no es múltiplo de ' + num2

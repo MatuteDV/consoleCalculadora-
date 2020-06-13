@@ -1,0 +1,1 @@
+module.exports = (num1, num2) => num2===0 ? 'No es posible dividir por 0.' : num1/num2;
